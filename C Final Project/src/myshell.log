@@ -1,0 +1,2 @@
+[pid=1342] cmd=" echo Hello World" status=0
+[pid=1343] cmd="ls -l" status=0
