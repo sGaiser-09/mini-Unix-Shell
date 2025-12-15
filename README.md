@@ -10,13 +10,13 @@ ________________________________________________________________________________
 myShell must be built using a linux system or WSL through windows powershell.
 
 ## Run Instructions
-Step 1: Open Windows Terminal or Powershell
-Step 2: Type the "wsl" command to run the linux virtual machine
-Step 3: Navigate to the project folder
-    example: cd /mnt/c/Users/<YourUserName>/Documents/"C Final Project"
-Step 4: Type "make" command to build the shell
-Step 5: To run shell type "./myshell"
-Step 6: You will see a prompt that says "myshell>", once this appears, you can utilize the mini shell.
+Step 1: Open Windows Terminal or Powershell  
+Step 2: Type the "wsl" command to run the linux virtual machine  
+Step 3: Navigate to the project folder  
+    example: cd /mnt/c/Users/<YourUserName>/Documents/"C Final Project"  
+Step 4: Type "make" command to build the shell  
+Step 5: To run shell type "./myshell"  
+Step 6: You will see a prompt that says "myshell>", once this appears, you can utilize the mini shell.  
 
 ## Sample Code To Try
 ls
